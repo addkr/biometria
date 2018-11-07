@@ -1,0 +1,10 @@
+C:\Users\Ada\source\repos\Biometria\Biometria\bin\Debug\Biometria.exe.config
+C:\Users\Ada\source\repos\Biometria\Biometria\bin\Debug\Biometria.exe
+C:\Users\Ada\source\repos\Biometria\Biometria\bin\Debug\Biometria.pdb
+C:\Users\Ada\source\repos\Biometria\Biometria\obj\Debug\Biometria.csprojResolveAssemblyReference.cache
+C:\Users\Ada\source\repos\Biometria\Biometria\obj\Debug\Biometria.FormBiometria.resources
+C:\Users\Ada\source\repos\Biometria\Biometria\obj\Debug\Biometria.Properties.Resources.resources
+C:\Users\Ada\source\repos\Biometria\Biometria\obj\Debug\Biometria.csproj.GenerateResource.cache
+C:\Users\Ada\source\repos\Biometria\Biometria\obj\Debug\Biometria.csproj.CoreCompileInputs.cache
+C:\Users\Ada\source\repos\Biometria\Biometria\obj\Debug\Biometria.exe
+C:\Users\Ada\source\repos\Biometria\Biometria\obj\Debug\Biometria.pdb
