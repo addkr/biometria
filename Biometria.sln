@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biometria", "Biometria\Biometria.csproj", "{B699FAB6-18B0-45AC-A2B4-73F178E132CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScottPlot", "..\..\..\Downloads\ScottPlot-master\ScottPlot-master\src\ScottPlot\ScottPlot.csproj", "{146D9444-8D80-4049-AB17-55AE852F59E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B699FAB6-18B0-45AC-A2B4-73F178E132CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B699FAB6-18B0-45AC-A2B4-73F178E132CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B699FAB6-18B0-45AC-A2B4-73F178E132CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146D9444-8D80-4049-AB17-55AE852F59E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146D9444-8D80-4049-AB17-55AE852F59E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146D9444-8D80-4049-AB17-55AE852F59E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146D9444-8D80-4049-AB17-55AE852F59E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
