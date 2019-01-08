@@ -96,13 +96,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Downloads\ScottPlot-master\ScottPlot-master\src\ScottPlot\ScottPlot.csproj">
-      <Project>{146d9444-8d80-4049-ab17-55ae852f59e3}</Project>
-      <Name>ScottPlot</Name>
-    </ProjectReference>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Accord.3.8.0\build\Accord.targets" Condition="Exists('..\packages\Accord.3.8.0\build\Accord.targets')" />
